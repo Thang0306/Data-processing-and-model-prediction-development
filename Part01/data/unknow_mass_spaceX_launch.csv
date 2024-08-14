@@ -1,0 +1,10 @@
+launch_name,rocket_name,launchpad_name,launchpad_region,launchpad_geo,landpad_name,landpad_type,landpad_region,landpad_geo,outcome,payloads_type,payloads_mass,payloads_orbit
+NROL-76,Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success,Satellite,5670,LEO
+ZUMA,Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success,Satellite,2078,LEO
+Crew-2,Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",OCISLY,ASDS,California,"(33.7291858, -118.262015)",Success,Crew Dragon,13288,ISS
+Transporter-2,Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success,Satellite,2078,SSO
+Transporter-3,Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success,Satellite,2078,LEO
+NROL-87,Falcon 9,VAFB SLC 4E,California,"(34.632093, -120.610829)",LZ-4,RTLS,California,"(34.632989, -120.615167)",Success,Satellite,5670,LEO
+Transporter-5,Falcon 9,CCSFS SLC 40,Florida,"(28.5618571, -80.577366)",LZ-1,RTLS,Florida,"(28.485833, -80.544444)",Success,Satellite,2078,SSO
+CRS-25,Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",ASOG,ASDS,Florida,"(33.7291858, -118.262015)",Success,Dragon 2.0,2078,ISS
+Crew-5,Falcon 9,KSC LC 39A,Florida,"(28.6080585, -80.6039558)",JRTI,ASDS,Florida,"(28.4104, -80.6188)",Success,Crew Dragon,13288,ISS
